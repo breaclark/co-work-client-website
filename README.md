@@ -20,7 +20,7 @@ Wework, The Wing, and Centrl Office all have pretty similar layouts: a fixed nav
 This font combination and color palette feel unique and cool, but still approachable, in line with the brief the client has given.
 
 <p>
-<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.48.41%20AM.png" width="400">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%201.46.05%20PM.png" width="400">
 <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.40.47%20AM.png" width="400">
 </p>
 
