@@ -32,6 +32,15 @@ This font combination and color palette feel unique and cool, but still approach
 <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/mobile_and_tablet.jpeg" width="500">
 <p>
 
+
+##### Other Pages
+
+<p>
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/mobile_other_2.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/mobile_other_1.jpeg" width="400">
+<p>
+
+
 ## Setup/Installation Requirements
 
 
