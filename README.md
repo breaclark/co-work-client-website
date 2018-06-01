@@ -28,8 +28,8 @@ This font combination and color palette feel unique and cool, but still approach
 
 ##### Main Page
 <p>
-<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/desktop.jpeg" width="400">
-<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/mobile_and_tablet.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/desktop.jpeg" width="300">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/mobile_and_tablet.jpeg" width="500">
 <p>
 
 ## Setup/Installation Requirements
