@@ -13,8 +13,10 @@ A large inspiration for this project is The Wing, a social club for female profe
 
 This font combination and color palette feel unique and cool, but still approachable.
 
-<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.48.41%20AM.png" width="400" float="left">
-<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.40.47%20AM.png" width="400" float="left">
+<p>
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.48.41%20AM.png" width="400">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.40.47%20AM.png" width="400">
+</p>
 
 ## Setup/Installation Requirements
 
