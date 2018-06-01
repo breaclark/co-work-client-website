@@ -11,7 +11,11 @@ A large inspiration for this project is The Wing, a social club for female profe
 | :-------------  | :------------- | :------------- | :------------- |
 | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.30.23%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.31.14%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.31.47%20AM.png"> | <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.32.37%20AM.png"> |
 
+### Layout Inspiration
+
 Wework, The Wing, and Centrl Office all have pretty similar layouts: a fixed navbar at the top including links for their spaces and such, the main logo on the left side of the navbar, a member login on the right side of the navbar, then some sort of photo (or gallery), with a banner stating their main purpose below. Somewhere near the photo there is a call to action to take a tour/sign up/ or login. Under that is some text and pictures detailing more about their space and purpose. This website should mirror that layout.
+
+### Font and Color Palette Inspiration
 
 This font combination and color palette feel unique and cool, but still approachable, in line with the brief the client has given.
 
@@ -19,6 +23,14 @@ This font combination and color palette feel unique and cool, but still approach
 <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.48.41%20AM.png" width="400">
 <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.40.47%20AM.png" width="400">
 </p>
+
+### Sketches
+
+##### Main Page
+<p>
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/desktop.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Sketches/mobile_and_tablet.jpeg" width="400">
+<p>
 
 ## Setup/Installation Requirements
 
