@@ -15,6 +15,8 @@ A large inspiration for this project is The Wing, a social club for female profe
 
 Wework, The Wing, and Centrl Office all have pretty similar layouts: a fixed navbar at the top including links for their spaces and such, the main logo on the left side of the navbar, a member login on the right side of the navbar, then some sort of photo (or gallery), with a banner stating their main purpose below. Somewhere near the photo there is a call to action to take a tour/sign up/ or login. Under that is some text and pictures detailing more about their space and purpose. This website should mirror that layout.
 
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Inspiration/Screen%20Shot%202018-06-01%20at%208.54.05%20PM.png">
+
 ### Font and Color Palette Inspiration
 
 This font combination and color palette feel unique and cool, but still approachable, in line with the brief the client has given.
