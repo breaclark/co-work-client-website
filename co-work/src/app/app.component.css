@@ -1,8 +1,9 @@
 .header {
-  display: flex;
-  justify-content: space-around;
   align-items: center;
   background-color: #77A6F7;
+  color: white;
+  display: flex;
+  justify-content: space-around;
   width: 100%;
 }
 
@@ -11,9 +12,14 @@
   list-style-type: none;
 }
 
+.header ul li {
+  margin: 10px;
+}
+
 .footer {
-  display: flex;
   background-color: #77A6F7;
+  color: white;
+  display: flex;
   width: 100%;
 }
 
@@ -22,6 +28,10 @@
   list-style-type: none;
 }
 
+.footer ul li {
+  margin: 10px;
+}
+
 .footer ul img {
-  width: 50px;
+  width: 30px;
 }
