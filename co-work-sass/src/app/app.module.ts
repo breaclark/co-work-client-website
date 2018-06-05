@@ -7,6 +7,11 @@ import { AppComponent } from './app.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { MissionComponent } from './mission/mission.component';
+import { AccountComponent } from './account/account.component';
+import { MembershipComponent } from './membership/membership.component';
+import { EventsComponent } from './events/events.component';
+import { CareersComponent } from './careers/careers.component';
 
 
 @NgModule({
@@ -14,7 +19,12 @@ import { SignupComponent } from './signup/signup.component';
     AppComponent,
     WelcomeComponent,
     LoginComponent,
-    SignupComponent
+    SignupComponent,
+    MissionComponent,
+    AccountComponent,
+    MembershipComponent,
+    EventsComponent,
+    CareersComponent
   ],
   imports: [
     BrowserModule,
