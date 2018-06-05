@@ -1,6 +1,8 @@
+$bar-color: #77A6F7;
+
 .header {
   align-items: center;
-  background-color: #77A6F7;
+  background-color: $bar-color;
   color: white;
   display: flex;
   justify-content: space-around;
@@ -17,7 +19,7 @@
 }
 
 .footer {
-  background-color: #77A6F7;
+  background-color: $bar-color;
   color: white;
   display: flex;
   width: 100%;
