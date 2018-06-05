@@ -1,16 +1,27 @@
 .header {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  background-color: #77A6F7;
+  width: 100%;
 }
 
 .header ul {
   display: flex;
+  list-style-type: none;
 }
 
 .footer {
   display: flex;
+  background-color: #77A6F7;
+  width: 100%;
 }
 
 .footer ul {
   display: flex;
+  list-style-type: none;
+}
+
+.footer ul img {
+  width: 50px;
 }
