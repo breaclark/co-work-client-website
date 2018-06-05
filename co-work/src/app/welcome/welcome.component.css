@@ -1,0 +1,21 @@
+.banner {
+  display: flex;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.text-picture-block {
+  display: flex;
+}
+
+.text-picture-block img {
+  width: 50%;
+  height: 100px;
+  object-fit: cover;
+}
+
+.text-picture-block:nth-child(3) {
+  flex-direction: row-reverse;
+}
