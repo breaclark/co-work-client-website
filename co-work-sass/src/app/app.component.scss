@@ -3,15 +3,38 @@ $bar-color: #77A6F7;
 .header {
   align-items: center;
   background-color: $bar-color;
-  color: white;
+  border-radius: 10px;
   display: flex;
   justify-content: space-around;
-  width: 100%;
+  margin: 4px -10px;
+}
+
+.header a {
+  color: white;
+}
+
+.header h2 {
+  font-family: 'Nunito', sans-serif;
+}
+
+.header h2 span{
+  font-weight: bold;
 }
 
 .header ul {
   display: flex;
   list-style-type: none;
+  font-family: 'Nunito', sans-serif;
+}
+
+.header button {
+  font-family: 'Roboto Slab', serif;
+  background-color: #FFCCBC;
+  border-radius: 4px;
+}
+
+.header button a {
+  color: $bar-color;
 }
 
 .header ul li {
