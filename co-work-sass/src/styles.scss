@@ -11,3 +11,32 @@ a:hover {
 body {
   background-image: url("./assets/images/wormz.png");
 }
+
+.text-picture-block {
+  border: 3px solid #4A90E2;
+  border-radius: 16px;
+  display: flex;
+  margin: 20px;
+}
+
+.text-picture-block p {
+  margin: 10px;
+}
+
+.text-picture-block img {
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+  height: 100px;
+  object-fit: cover;
+  width: 50%;
+}
+
+.text-block {
+  border: 3px solid #FFCCBC;
+  border-radius: 16px;
+  margin: 20px;
+}
+
+.text-block p {
+  margin: 10px;
+}
