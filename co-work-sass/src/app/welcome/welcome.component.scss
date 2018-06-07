@@ -29,11 +29,6 @@
   font-weight: 900;
 }
 
-.text-picture-block:nth-child(1) img {
-  border-top-left-radius: 16px;
-  border-bottom-left-radius: 16px;
-}
-
 .text-picture-block:nth-child(3) {
   flex-direction: row-reverse;
 }
@@ -41,6 +36,6 @@
 .text-picture-block:nth-child(3) img {
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
-  border-top-right-radius: 16px;
-  border-bottom-right-radius: 16px;
+  border-top-right-radius: 13px;
+  border-bottom-right-radius: 13px;
 }
