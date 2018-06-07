@@ -11,6 +11,10 @@ input {
   width: 300px;
 }
 
+h5 {
+  font-family: 'Roboto Slab', serif;
+}
+
 .button-group button{
   background-color: #FFCCBC;
   border-radius: 3px;
@@ -19,6 +23,7 @@ input {
   margin: 10px;
   padding-left: 10px;
   padding-right: 10px;
+  font-family: 'Roboto Slab', serif;
 }
 
 .sign-up {
@@ -30,4 +35,5 @@ input {
 
 .sign-up a {
   color: white;
+  font-family: 'Roboto Slab', serif;
 }
