@@ -14,12 +14,28 @@
   font-family: 'Roboto Slab', serif;
 }
 
+.banner-left button {
+  background-color: #FFCCBC;
+  border-radius: 4px;
+}
+
+.banner-left button a {
+  color: white;
+}
+
 .banner-left p span {
   font-weight: 900;
 }
 
 .text-picture-block {
+  border: 3px solid #4A90E2;
+  border-radius: 16px;
   display: flex;
+  margin: 20px;
+}
+
+.text-picture-block p {
+  margin: 10px;
 }
 
 .text-picture-block img {
@@ -28,6 +44,26 @@
   object-fit: cover;
 }
 
+.text-picture-block:nth-child(1) img {
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
 .text-picture-block:nth-child(3) {
   flex-direction: row-reverse;
+}
+
+.text-picture-block:nth-child(3) img {
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.text-block {
+  border: 3px solid #FFCCBC;
+  border-radius: 16px;
+  margin: 20px;
+}
+
+.text-block p {
+  margin: 10px;
 }
