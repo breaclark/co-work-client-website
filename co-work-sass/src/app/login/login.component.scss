@@ -1,0 +1,23 @@
+* {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input {
+  border: 3px solid #FFCCBC;
+  border-radius: 3px;
+  margin-top: 10px;
+  width: 300px;
+}
+
+.login {
+  background-color: #FFCCBC;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.login a {
+  color: white;
+}
