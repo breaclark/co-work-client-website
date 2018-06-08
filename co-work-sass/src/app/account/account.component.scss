@@ -1,14 +1,17 @@
+$blue: #4A90E2;
+$pink: #FFCCBC;
+
 #member-photo {
   width: 350px;
   height: 350px;
   object-fit: cover;
   border-radius: 100%;
-  border: 3px solid #4A90E2;
-  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px #4A90E2;
+  border: 3px solid $blue;
+  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
 }
 
 .upload, .cancel {
-  background-color: #FFCCBC;
+  background-color: $pink;
   border-radius: 4px;
   color: white;
   margin-top: 10px;

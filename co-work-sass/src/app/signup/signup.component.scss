@@ -1,3 +1,5 @@
+$pink: #FFCCBC;
+
 * {
   display: block;
   margin: 0 auto;
@@ -5,7 +7,7 @@
 }
 
 input {
-  border: 3px solid #FFCCBC;
+  border: 3px solid $pink;
   border-radius: 3px;
   margin-top: 10px;
   width: 300px;
@@ -16,7 +18,7 @@ h5 {
 }
 
 .button-group button{
-  background-color: #FFCCBC;
+  background-color: $pink;
   border-radius: 3px;
   color: white;
   display: inline;
@@ -27,7 +29,7 @@ h5 {
 }
 
 .sign-up {
-  background-color: #FFCCBC;
+  background-color: $pink;
   border-radius: 4px;
   margin-top: 10px;
   margin-bottom: 10px;

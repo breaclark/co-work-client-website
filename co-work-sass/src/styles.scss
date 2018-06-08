@@ -1,7 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+$green: #00887A;
+$blue: #4A90E2;
+$pink: #FFCCBC;
+
 * {
   font-family: 'Nunito', sans-serif;
-  color: #00887A;
+  color: $green;
 }
 
 a:hover {
@@ -13,11 +17,11 @@ body {
 }
 
 .text-picture-block {
-  border: 3px solid #4A90E2;
+  border: 3px solid $blue;
   border-radius: 16px;
   display: flex;
   margin: 20px;
-  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px #4A90E2;
+  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
   max-height: 185px;
 }
 
@@ -38,10 +42,10 @@ body {
 }
 
 .text-block {
-  border: 3px solid #FFCCBC;
+  border: 3px solid $pink;
   border-radius: 16px;
   margin: 20px;
-  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px #FFCCBC;
+  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $pink;
 }
 
 .text-block p {

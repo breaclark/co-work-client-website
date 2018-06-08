@@ -1,3 +1,6 @@
+$blue: #4A90E2;
+$pink: #FFCCBC;
+
 .banner {
   display: flex;
 }
@@ -7,8 +10,8 @@
   height: 350px;
   object-fit: cover;
   border-radius: 100%;
-  border: 3px solid #4A90E2;
-  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px #4A90E2;
+  border: 3px solid $blue;
+  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
 }
 
 .banner-left h1 {
@@ -16,7 +19,7 @@
 }
 
 .sign-up {
-  background-color: #FFCCBC;
+  background-color: $pink;
   border-radius: 4px;
 }
 
