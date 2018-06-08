@@ -2,7 +2,6 @@
 
 .banner {
   display: flex;
-  margin-top: 30px;
 
   img {
     width: 350px;
@@ -48,6 +47,18 @@
 
 }
 
+@media screen and (max-width: 675px) {
+  .banner {
+
+    img {
+      width: 280px;
+      height: 280px;
+      box-shadow: -5px 5px 0px -3px white, -5px 5px 0px 0px $blue;
+    }
+
+  }
+}
+
 @media screen and (max-width: 600px) {
   .text-picture-block:nth-child(3) {
     flex-direction: column;
@@ -60,3 +71,11 @@
     }
   }
 }
+
+@media screen and (max-width: 575px) {
+  .banner {
+    flex-direction: column-reverse;
+  }
+}
+
+// one more at 500 for top thing

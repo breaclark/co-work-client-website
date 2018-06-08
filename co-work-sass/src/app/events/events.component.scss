@@ -1,5 +1,10 @@
 @import "./../../assets/global_sass";
 
+#load-more {
+  display: block;
+  margin: 0px auto;
+}
+
 .attend, #load-more {
   background-color: $pink;
   border-radius: 4px;
