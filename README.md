@@ -2,7 +2,7 @@
 
 #### An exercise in doing freelance work for a client who owns a co-working space, using sketch to mockup a website for them.
 
-#### By **Brea Borlas**
+#### By **Brea Clark**
 
 ### Inspiration
 A large inspiration for this project is The Wing, a social club for female professionals (not just tech workers). It includes spaces for working, socializing, making, and holding events. Their website has a somewhat retro vibe and the colors of the space are reflected in the website. It would fit the client's brief well to make their website a slightly less feminine version of The Wing's. Shown below are some other inspiration sources as well, including Urban Outfitters, Glossier, and Lonny.
@@ -49,14 +49,35 @@ This font combination and color palette feel unique and cool, but still approach
 <img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Wireframes/Prototyping.png" width="600">
 </p>
 
+### Website Screenshots
+
+<p>
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Screenshots/Screen%20Shot%202018-06-08%20at%2012.25.17%20PM.png" width="300">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Screenshots/Screen%20Shot%202018-06-08%20at%2012.25.30%20PM.png" width="300">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Screenshots/Screen%20Shot%202018-06-08%20at%2012.25.42%20PM.png" width="300">
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Screenshots/Screen%20Shot%202018-06-08%20at%2012.25.53%20PM.png" width="400">
+<img src="https://raw.githubusercontent.com/breatortilla/co-work-client-website/master/Screenshots/Screen%20Shot%202018-06-08%20at%2012.26.03%20PM.png" width="400">
+</p>
+
 
 ## Setup/Installation Requirements
-
+* Download repo
+* Navigate into co-work-sass folder
+* Run npm install
+* Run ng serve --open to open in browser
 
 ## Known Bugs
 * No known bugs.
 
 ## Technologies Used
+* Sketches
+* HTML
+* CSS
+* Typescript
+* Sass
+* Angular
 
 ## Support and contact details
 
@@ -64,4 +85,4 @@ _Email me at breatortilla@gmail.com for support_
 
 ### License
 
-Copyright (c) 2018 **_Brea Borlas_**
+Copyright (c) 2018 **_Brea Clark_**
