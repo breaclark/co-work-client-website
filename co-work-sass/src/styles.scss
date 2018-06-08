@@ -1,7 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
-$green: #00887A;
-$blue: #4A90E2;
-$pink: #FFCCBC;
+@import "./assets/global_sass";
 
 * {
   font-family: 'Nunito', sans-serif;
@@ -56,7 +53,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
   .text-picture-block {
     flex-direction: column;
     max-height: 600px;

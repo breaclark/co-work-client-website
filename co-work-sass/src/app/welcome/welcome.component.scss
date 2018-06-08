@@ -1,5 +1,4 @@
-$blue: #4A90E2;
-$pink: #FFCCBC;
+@import "./../../assets/global_sass";
 
 .banner {
   display: flex;
@@ -49,7 +48,7 @@ $pink: #FFCCBC;
 
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
   .text-picture-block:nth-child(3) {
     flex-direction: column;
 
