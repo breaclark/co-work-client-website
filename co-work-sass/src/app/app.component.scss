@@ -12,29 +12,30 @@ a {
   display: flex;
   justify-content: space-around;
   margin: 4px -10px;
-}
 
-.header h2 span{
-  font-weight: bold;
-}
+  h2 span {
+    font-weight: bold;
+  }
 
-.header ul {
-  display: flex;
-  list-style-type: none;
-}
+  ul {
+    display: flex;
+    list-style-type: none;
+  }
 
-.header button {
-  background-color: $pink;
-  border-radius: 4px;
-}
+  ul li {
+    margin: 10px;
+  }
 
-.header button a {
-  color: $blue;
-  font-family: 'Roboto Slab', serif;
-}
+  button {
+    background-color: $pink;
+    border-radius: 4px;
+  }
 
-.header ul li {
-  margin: 10px;
+  button a {
+    color: $blue;
+    font-family: 'Roboto Slab', serif;
+  }
+
 }
 
 .footer {
@@ -45,18 +46,19 @@ a {
   display: flex;
   margin: 4px -10px;
   width: 100%;
-}
 
-.footer ul {
-  display: flex;
-  list-style-type: none;
-}
+  ul {
+    display: flex;
+    list-style-type: none;
+  }
 
-.footer ul li {
-  margin: 10px;
-  color: white;
-}
+  ul li {
+    margin: 10px;
+    color: white;
+  }
 
-.footer ul img {
-  width: 30px;
+  ul img {
+    width: 30px;
+  }
+
 }

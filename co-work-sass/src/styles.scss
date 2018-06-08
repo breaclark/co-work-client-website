@@ -8,12 +8,16 @@ $pink: #FFCCBC;
   color: $green;
 }
 
-a:hover {
-  text-decoration: none;
-}
-
 body {
   background-image: url("./assets/images/wormz.png");
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 .text-picture-block {
@@ -23,18 +27,18 @@ body {
   margin: 20px;
   box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
   max-height: 185px;
-}
 
-.text-picture-block p {
-  margin: 10px;
-}
+  p {
+    margin: 10px;
+  }
 
-.text-picture-block img {
-  border-top-left-radius: 13px;
-  border-bottom-left-radius: 13px;
-  height: 100%;
-  object-fit: cover;
-  width: 100%;
+  img {
+    border-top-left-radius: 13px;
+    border-bottom-left-radius: 13px;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
 }
 
 .img-container {
@@ -46,12 +50,8 @@ body {
   border-radius: 16px;
   margin: 20px;
   box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $pink;
-}
 
-.text-block p {
-  margin: 10px;
-}
-
-h3 {
-  font-family: 'Roboto Slab', serif;
+  p {
+    margin: 10px;
+  }
 }

@@ -3,19 +3,32 @@ $pink: #FFCCBC;
 
 .banner {
   display: flex;
+
+  img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 100%;
+    border: 3px solid $blue;
+    box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
+  }
+
 }
 
-.banner img {
-  width: 350px;
-  height: 350px;
-  object-fit: cover;
-  border-radius: 100%;
-  border: 3px solid $blue;
-  box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
-}
+.banner-left {
+  h1 {
+    font-family: 'Roboto Slab', serif;
+  }
 
-.banner-left h1 {
-  font-family: 'Roboto Slab', serif;
+  button a {
+    color: white;
+    font-family: 'Roboto Slab', serif;
+  }
+
+  p span {
+    font-weight: 900;
+  }
+
 }
 
 .sign-up {
@@ -23,22 +36,14 @@ $pink: #FFCCBC;
   border-radius: 4px;
 }
 
-.banner-left button a {
-  color: white;
-  font-family: 'Roboto Slab', serif;
-}
-
-.banner-left p span {
-  font-weight: 900;
-}
-
 .text-picture-block:nth-child(3) {
   flex-direction: row-reverse;
-}
 
-.text-picture-block:nth-child(3) img {
-  border-top-left-radius: 0px;
-  border-bottom-left-radius: 0px;
-  border-top-right-radius: 13px;
-  border-bottom-right-radius: 13px;
+  img {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+  }
+
 }
