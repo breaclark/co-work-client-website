@@ -1,5 +1,9 @@
 @import "./../../assets/global_sass";
 
+.account-top {
+  display: flex;
+}
+
 #member-photo {
   width: 350px;
   height: 350px;
@@ -7,4 +11,29 @@
   border-radius: 100%;
   border: 3px solid $blue;
   box-shadow: -8px 8px 0px -3px white, -8px 8px 0px 0px $blue;
+}
+
+.profile-right {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 650px) {
+  .account-top {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-right {
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  #member-photo {
+    width: 250px;
+    height: 250px;
+    margin: 0px auto;
+  }
 }
