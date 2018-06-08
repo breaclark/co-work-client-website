@@ -66,6 +66,12 @@ a {
 
 }
 
+@media screen and (max-width: 550px) {
+  .footer {
+    flex-direction: column;
+  }
+}
+
 @media screen and (max-width: 500px) {
   .header {
     flex-direction: column;
@@ -73,8 +79,5 @@ a {
     button {
       margin-bottom: 20px;
     }
-  }
-  .footer {
-    flex-direction: column;
   }
 }
