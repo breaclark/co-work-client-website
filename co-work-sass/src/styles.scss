@@ -92,3 +92,9 @@ button {
     }
   }
 }
+
+@media screen and (max-width: 450px) {
+  input {
+    width: 200px;
+  }
+}

@@ -65,3 +65,16 @@ a {
   }
 
 }
+
+@media screen and (max-width: 500px) {
+  .header {
+    flex-direction: column;
+
+    button {
+      margin-bottom: 20px;
+    }
+  }
+  .footer {
+    flex-direction: column;
+  }
+}
